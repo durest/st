@@ -10,7 +10,7 @@
         "share_message": "https:\/\/play.google.com\/store\/apps\/details?id=com.arrow.out.game.puzzle",
         "bottom_visible": "no",
         "msg_visible": "no",
-        "score_visible": "no",
+        "score_visible": "yes",
         "default_link": ""
     }
 ]
